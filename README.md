@@ -1,6 +1,6 @@
 # Velocímetro
 
-## Aplicativo Flutter para exibir a velocidade atual do usuário.
+## Aplicativo Flutter para exibir a velocidade do usuário.
 
 ## Autoras
 
