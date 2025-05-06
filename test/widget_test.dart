@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import '../texto/main.dart';
+import 'package:velocimetro/main.dart';
 
 
 void main() {
